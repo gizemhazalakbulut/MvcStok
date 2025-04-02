@@ -27,30 +27,17 @@ Projede **ASP.NET MVC mimarisi** ve **MSSQL veritabanı** kullanılmıştır.
 
 ## 🖼️ Proje Görselleri
 
-### 📌 Ürün Kategori Listesi  
-Kategori yönetimi için liste ekranı:  
-![Kategori Listesi](https://user-images.githubusercontent.com/12345678/urun-kategori.png)
+![Ekran görüntüsü 2025-04-02 220016](https://github.com/user-attachments/assets/3a30e408-2316-44eb-94da-ac3d801a3f02)
 
----
+![Ekran görüntüsü 2025-04-02 220139](https://github.com/user-attachments/assets/805a1020-59a2-4537-a9df-4417f5e6e9b6)
 
-### ➕ Yeni Ürün Ekleme  
-Yeni ürün eklemek için form ekranı:  
-![Ürün Ekleme](https://user-images.githubusercontent.com/12345678/urun-ekle.png)
+![Ekran görüntüsü 2025-04-02 220201](https://github.com/user-attachments/assets/477c76aa-960d-4e31-836e-a8e4484ce34d)
 
----
+![Ekran görüntüsü 2025-04-02 220214](https://github.com/user-attachments/assets/d520bd5e-8ac1-43b8-9cca-179bfa266a37)
 
-### 🧾 Ürün Tablosu ve İşlemler  
-Tabloda ürün listesi, silme ve güncelleme işlemleri:  
-![Ürün Tablosu](https://user-images.githubusercontent.com/12345678/urun-tablosu.png)
+![Ekran görüntüsü 2025-04-02 220228](https://github.com/user-attachments/assets/2d08e484-32b9-4486-b362-48b35b14ab33)
 
----
+![Ekran görüntüsü 2025-04-02 220243](https://github.com/user-attachments/assets/c58e8191-43c9-4e2f-a66c-854895a77c5a)
 
-### 🔍 Filtreleme ve Arama  
-Ürünler arasında arama ve filtreleme özelliği:  
-![Filtreleme](https://user-images.githubusercontent.com/12345678/filtreleme-arama.png)
+![Ekran görüntüsü 2025-04-02 220300](https://github.com/user-attachments/assets/6a05286a-51ce-4749-ac20-ca7bbb5b1485)
 
----
-
-### ⚠️ Bildirimler ve Modal  
-Başarı/uyarı mesajları ve açılır modal pencereler:  
-![Uyarı](https://user-images.githubusercontent.com/12345678/bildirim-modal.png)
