@@ -28,16 +28,29 @@ Projede **ASP.NET MVC mimarisi** ve **MSSQL veritabanı** kullanılmıştır.
 ## 🖼️ Proje Görselleri
 
 ### 📌 Ürün Kategori Listesi  
-![Kategori Listesi](https://github.com/user-attachments/assets/685f5cb6-e080-4867-b0b8-03f4e803d61d)
+Kategori yönetimi için liste ekranı:  
+![Kategori Listesi](https://user-images.githubusercontent.com/12345678/urun-kategori.png)
+
+---
 
 ### ➕ Yeni Ürün Ekleme  
-![Ürün Ekleme](https://github.com/user-attachments/assets/4ec0bb4e-8f88-402f-a9df-f34972cf4d16)
+Yeni ürün eklemek için form ekranı:  
+![Ürün Ekleme](https://user-images.githubusercontent.com/12345678/urun-ekle.png)
+
+---
 
 ### 🧾 Ürün Tablosu ve İşlemler  
-![Ürün Tablosu](https://github.com/user-attachments/assets/1ac3ab25-efca-4527-bc18-d6ca8cf8f59b)
+Tabloda ürün listesi, silme ve güncelleme işlemleri:  
+![Ürün Tablosu](https://user-images.githubusercontent.com/12345678/urun-tablosu.png)
+
+---
 
 ### 🔍 Filtreleme ve Arama  
-![Filtreleme](https://github.com/user-attachments/assets/8dc78e9a-75ed-45ec-97e2-ffe4e057410a)
+Ürünler arasında arama ve filtreleme özelliği:  
+![Filtreleme](https://user-images.githubusercontent.com/12345678/filtreleme-arama.png)
+
+---
 
 ### ⚠️ Bildirimler ve Modal  
-![Uyarı](https://github.com/user-attachments/assets/4ec5020b-6221-471a-8cda-9b289b1955d4)
+Başarı/uyarı mesajları ve açılır modal pencereler:  
+![Uyarı](https://user-images.githubusercontent.com/12345678/bildirim-modal.png)
