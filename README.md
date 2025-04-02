@@ -1,48 +1,43 @@
-📦 50 Derste MVC – Stok Takip Projesi
-Bu proje, Murat Yücedağ'ın "50 Derste MVC" adlı YouTube eğitim serisini takip ederek geliştirilmiştir. Eğitim boyunca öğrendiğim konuları pekiştirerek bir stok takip sistemi oluşturulmuştur. Projede ASP.NET MVC mimarisi ve MSSQL veritabanı kullanılmıştır.
+## 📦 50 Derste MVC – Stok Takip Projesi
 
-🛠️ Kullanılan Teknolojiler ve Yaklaşımlar
-ASP.NET MVC 5
+Bu proje, Murat Yücedağ'ın "50 Derste MVC" adlı YouTube eğitim serisini takip ederek geliştirilmiştir.  
+Eğitim boyunca öğrenilen konular pekiştirilerek bir stok takip sistemi oluşturulmuştur.  
+Projede **ASP.NET MVC mimarisi** ve **MSSQL veritabanı** kullanılmıştır.
 
-Entity Framework
 
-Microsoft SQL Server (MSSQL)
+## 🛠️ Kullanılan Teknolojiler ve Yaklaşımlar
 
-HTML, CSS, Bootstrap
+- ASP.NET MVC 5  
+- Entity Framework  
+- Microsoft SQL Server (MSSQL)  
+- HTML, CSS, Bootstrap  
+- LINQ  
+- Razor Syntax  
 
-LINQ
+## 🚀 Uygulanan Başlıca Özellikler
 
-Razor Syntax
+- 🔽 **DropDownList** ile veritabanından dinamik veri çekme  
+- 📄 Sayfalar arası veri aktarımı  
+- ✅ Form doğrulama (Validation) işlemleri  
+- 📑 Sayfalama (Pagination)  
+- ⚠️ Uyarı mesajları (Alerts)  
+- 💬 Modal pop-up pencereler  
+- 🔍 Arama (Searching)  
+- 📊 Datatable ile gelişmiş tablo yapısı
 
-🚀 Uygulanan Başlıca Özellikler
-🔽 DropDownList ile veritabanından dinamik veri çekme
+## 🖼️ Proje Görselleri
 
-🔁 Sayfalar arası veri aktarımı
+### 📌 Ürün Kategori Listesi  
+![Kategori Listesi](https://github.com/user-attachments/assets/685f5cb6-e080-4867-b0b8-03f4e803d61d)
 
-✅ Form doğrulama (Validation) işlemleri
+### ➕ Yeni Ürün Ekleme  
+![Ürün Ekleme](https://github.com/user-attachments/assets/4ec0bb4e-8f88-402f-a9df-f34972cf4d16)
 
-📄 Sayfalama (Pagination)
+### 🧾 Ürün Tablosu ve İşlemler  
+![Ürün Tablosu](https://github.com/user-attachments/assets/1ac3ab25-efca-4527-bc18-d6ca8cf8f59b)
 
-⚠️ Uyarı mesajları (Alerts)
+### 🔍 Filtreleme ve Arama  
+![Filtreleme](https://github.com/user-attachments/assets/8dc78e9a-75ed-45ec-97e2-ffe4e057410a)
 
-💬 Modal pop-up pencereler
-
-🔍 Arama (Searching)
-
-📊 Datatable ile gelişmiş tablo yapısı
-
-🖥️ Proje Görselleri
-
-![Ekran görüntüsü 2025-04-02 220016](https://github.com/user-attachments/assets/685f5cb6-0a90-4867-b98b-03f5e089d61d)
-
-![Ekran görüntüsü 2025-04-02 220139](https://github.com/user-attachments/assets/4c00b04e-8f88-420f-a2dd-f3497fc2d416)
-
-![Ekran görüntüsü 2025-04-02 220201](https://github.com/user-attachments/assets/1ac0ab25-efca-4527-bc18-d4ce8f4f59b5)
-
-![Ekran görüntüsü 2025-04-02 220214](https://github.com/user-attachments/assets/8dc78e9a-75ed-45ec-97e2-ffe405f7410a)
-
-![Ekran görüntüsü 2025-04-02 220228](https://github.com/user-attachments/assets/4ec5020b-6221-471a-8cda-9b28981965dd)
-
-![Ekran görüntüsü 2025-04-02 220243](https://github.com/user-attachments/assets/96108c43-40e1-4f13-a69d-124a7a95ca64)
-
-![Ekran görüntüsü 2025-04-02 220300](https://github.com/user-attachments/assets/c5c3ec86-714b-408d-a12c-dcb145545280)
+### ⚠️ Bildirimler ve Modal  
+![Uyarı](https://github.com/user-attachments/assets/4ec5020b-6221-471a-8cda-9b289b1955d4)
